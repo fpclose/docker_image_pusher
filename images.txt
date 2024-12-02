@@ -1,5 +1,4 @@
 glzjin/20190511_awd_docker_b4
-glzjin/20190511_awd_docker_b2
 glzjin/20190511_awd_docker_b1
 glzjin/20190511_awd_docker_b3
 tomcat:9.0
